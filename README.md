@@ -23,3 +23,5 @@ The system will reboot, as this is necessary to perform changes to the "actual" 
 It's recommended to turn SIP and FileVault back on after performing your changes.
 Please be careful when making changes in the root directory!
 Use at your own risk.
+
+Be aware of issue #2 acessing https://github.com/fxgst/writeable_root/issues/2
